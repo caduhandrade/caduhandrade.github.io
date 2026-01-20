@@ -16,7 +16,7 @@ export function Hero() {
         <div className="mb-8">
           <div className="w-40 h-40 sm:w-48 sm:h-48 md:w-56 md:h-56 rounded-full overflow-hidden border-4 border-primary/50 shadow-lg shadow-primary/20">
             <Image
-              src="/caduandrade.dev/images/profile.jpeg"
+              src="/images/profile.jpeg"
               alt="Carlos Eduardo Lopes de Andrade - Tech Lead & Software Architect"
               width={224}
               height={224}
