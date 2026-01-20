@@ -1,0 +1,18 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gradiente de fundo -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1e40af;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background circular -->
+  <circle cx="100" cy="100" r="100" fill="url(#bgGradient)"/>
+  
+  <!-- Texto CA -->
+  <text x="100" y="120" font-size="90" font-weight="bold" text-anchor="middle" fill="white" font-family="system-ui, -apple-system, sans-serif" letter-spacing="-2">CA</text>
+  
+  <!-- Linha decorativa -->
+  <line x1="40" y1="50" x2="160" y2="50" stroke="white" stroke-width="3" opacity="0.3" stroke-linecap="round"/>
+</svg>
