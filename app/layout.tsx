@@ -8,21 +8,21 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Carlos Eduardo Lopes de Andrade | Tech Lead & Software Architect',
-  description: 'Tech Lead e Software Architect com experiência em .NET, React e arquiteturas cloud-native. Especializado em microservices, Kubernetes e soluções AI.',
-  keywords: ['Tech Lead', 'Software Architect', '.NET', 'React', 'Cloud-native', 'Microservices', 'Kubernetes', 'AI'],
+  title: 'Carlos Eduardo Lopes de Andrade | Tech Lead & Software Engineer',
+  description: 'Tech Lead e Software Engineer com experiência em .NET, React e arquiteturas cloud-native. Especializado em microservices, Kubernetes e soluções AI.',
+  keywords: ['Tech Lead', 'Software Engineer', '.NET', 'React', 'Cloud-native', 'Microservices', 'Kubernetes', 'AI'],
   authors: [{ name: 'Carlos Eduardo Lopes de Andrade' }],
   generator: 'v0.app',
   openGraph: {
-    title: 'Carlos Eduardo Lopes de Andrade | Tech Lead & Software Architect',
-    description: 'Tech Lead e Software Architect com experiência em .NET, React e arquiteturas cloud-native.',
+    title: 'Carlos Eduardo Lopes de Andrade | Tech Lead & Software Engineer',
+    description: 'Tech Lead e Software Engineer com experiência em .NET, React e arquiteturas cloud-native.',
     type: 'profile',
     locale: 'pt_BR',
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Carlos Eduardo Lopes de Andrade',
-    description: 'Tech Lead & Software Architect',
+    description: 'Tech Lead & Software Engineer',
   },
   icons: {
     icon: [

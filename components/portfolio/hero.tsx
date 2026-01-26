@@ -17,7 +17,7 @@ export function Hero() {
           <div className="w-40 h-40 sm:w-48 sm:h-48 md:w-56 md:h-56 rounded-full overflow-hidden border-4 border-primary/50 shadow-lg shadow-primary/20">
             <Image
               src="/images/profile.jpeg"
-              alt="Carlos Eduardo Lopes de Andrade - Tech Lead & Software Architect"
+              alt="Carlos Eduardo Lopes de Andrade - Tech Lead & Software Engineer"
               width={224}
               height={224}
               className="w-full h-full object-cover"
@@ -40,11 +40,11 @@ export function Hero() {
           </h1>
           
           <h2 className="text-lg sm:text-xl md:text-2xl text-accent font-medium mb-6">
-            Tech Lead & Software Architect
+            Tech Lead & Software Engineer
           </h2>
           
           <p className="text-muted-foreground text-base sm:text-lg md:text-xl max-w-2xl mx-auto mb-8 leading-relaxed">
-            Tech Lead e Software Architect com forte experiência em{" "}
+            Tech Lead e Software Engineer com forte experiência em{" "}
             <span className="text-foreground font-medium">.NET</span>,{" "}
             <span className="text-foreground font-medium">React</span> e{" "}
             <span className="text-foreground font-medium">arquiteturas cloud-native</span>.

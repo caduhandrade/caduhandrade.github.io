@@ -26,9 +26,21 @@ const skillCategories: SkillCategory[] = [
     skills: ["Kubernetes", "GCP", "AWS", "Azure", "Docker", "CI/CD"],
   },
   {
-    title: "Banco de Dados",
-    icon: <Database className="w-5 h-5" />,
-    skills: ["SQL Server", "Oracle", "DynamoDB", "PostgreSQL", "RabbitMQ"],
+    title: "Banco de Dados & Mensageria",
+    icon: <Database className="w-5 h-5" />, 
+    skills: [
+      "SQL Server",
+      "Oracle",
+      "DynamoDB",
+      "PostgreSQL",
+      "RabbitMQ",
+      "Kafka",
+      "GCP Pub/Sub",
+      "AWS SNS/SQS",
+      "Azure Service Bus",
+      "Google Functions",
+      "Azure Functions"
+    ],
   },
   {
     title: "Inteligência Artificial",
